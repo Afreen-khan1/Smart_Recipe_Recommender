@@ -44,10 +44,10 @@ Before you can run and develop the Smart Recipe Recommender, you need to have th
 ## 🚀 Installation & Setup
 
 **1. Clone the Repository:**
-
+```bash
 git clone [https://github.com/yourusername/SmartRecipeRecommender.git](https://github.com/yourusername/SmartRecipeRecommender.git)
 cd SmartRecipeRecommender
-
+```
 **2. Database Setup:**
  * Open MySQL Workbench and create a new database (e.g., smartrecipes).
  * Populate the necessary tables with your recipe data.
