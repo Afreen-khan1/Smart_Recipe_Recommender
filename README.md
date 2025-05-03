@@ -64,17 +64,25 @@ cd SmartRecipeRecommender
  * Search Recipes: Enter your available ingredients in the search bar on the homepage to get personalized recipe recommendations.
  * Add Recipes (Admin): Navigate to the addRecipe.jsp page (you might need to provide a specific URL or access method for this).
  * View Nutrition Info: Detailed calorie and other nutritional information will be displayed alongside each recipe.
+
+ ---
    
 ##⚙️ Customization
  * Frontend Styling: Modify the look and feel of the application by editing the CSS files located in the WebContent/css/ directory.
  * User Authentication: Consider implementing user login functionality for personalized experiences and saved recipes.
  * Advanced Filtering: Enhance the search capabilities by adding more filters, such as dietary restrictions (vegetarian, vegan), cooking time, cuisine type, etc.
    
+---
+   
 ##📄 License
 This project is licensed under the MIT License. See the LICENSE file for complete details.
+
+---
 
  ##Acknowledgments
  * JDBC: For providing seamless connectivity to the MySQL database.
  * Java EE: For the robust and scalable web application architecture.
  * MySQL Workbench: For the intuitive database management interface.
  * Apache Tomcat: For serving as the reliable platform to host the application.
+
+---
