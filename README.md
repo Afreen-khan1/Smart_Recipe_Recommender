@@ -73,7 +73,13 @@ cd SmartRecipeRecommender
  * Advanced Filtering: Enhance the search capabilities by adding more filters, such as dietary restrictions (vegetarian, vegan), cooking time, cuisine type, etc.
    
 ---
-   
+
+## Developer
+Afreen Ahamed
+
+---
+
+
 ## 📄 License
 This project is licensed under the MIT License. See the LICENSE file for complete details.
 
